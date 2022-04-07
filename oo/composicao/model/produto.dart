@@ -9,5 +9,4 @@ class Produto {
   double get precoComDesconto {
     return (1 - desconto!) * preco!;
   }
-
 }
