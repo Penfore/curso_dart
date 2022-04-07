@@ -1,0 +1,9 @@
+Desafio Classe Carro
+
+- Criar arquivo da classe Carro (carro.dart)
+	* Construtor para receber a velocidade máxima
+	* Atributos: final int velocidadeMaxima, int velocidadeAtual
+	* Métodos: acelerar() {acrescenta 5 na velocidade}, reduzir() {reduz em 5 a velocidade}, bool estaNoLimite() {retorna true se velocidadeAtual está igual a velocidadeMaxima, false caso contrário}
+	
+- criar arquivo de teste para a classe Carro (teste_carro.dart)
+	* main()
